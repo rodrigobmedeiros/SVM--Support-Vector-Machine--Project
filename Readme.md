@@ -62,10 +62,10 @@ As três classes no conjunto de dados Iris:
 
 The four features of the Iris dataset:
 
-     comprimento sepal em cm
-     Largura sepal em cm
-     comprimento da pétala em cm
-     largura da pétala em cm
+     sepal length in cm
+     sepal width in cm
+     petal length in cm
+     petal width in cm
 
 
 ```python
