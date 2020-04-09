@@ -1,6 +1,6 @@
 # SVM (Support Vector Machine) Project. 
 
-For this series of lectures, we will be using the famous [iris data set](http://en.wikipedia.org/wiki/Iris_flower_data_set).
+In this project I will be using the famous [iris data set](http://en.wikipedia.org/wiki/Iris_flower_data_set).
 
 The Iris floral data set or Fisher's Iris data set is a multivariate data set introduced by Sir Ronald Fisher in 1936 as an example of discriminant analysis.
 
