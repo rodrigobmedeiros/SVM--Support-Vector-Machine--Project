@@ -239,13 +239,6 @@ svm_model = SVC()
 svm_model.fit(x_train,y_train)
 ```
 
-    C:\Users\DigaoSuplementos\Anaconda3\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
-      "avoid this warning.", FutureWarning)
-    
-
-
-
-
     SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
         decision_function_shape='ovr', degree=3, gamma='auto_deprecated',
         kernel='rbf', max_iter=-1, probability=False, random_state=None,
