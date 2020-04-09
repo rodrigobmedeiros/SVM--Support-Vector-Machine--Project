@@ -1,6 +1,6 @@
 # SVM (Support Vector Machine) Project. 
 
-For this series of lectures, we will be using the famous [iris data set](http://en.wikipedia.org/wiki/Iris_flower_data_set).
+In this project I will be using the famous [iris data set](http://en.wikipedia.org/wiki/Iris_flower_data_set).
 
 The Iris floral data set or Fisher's Iris data set is a multivariate data set introduced by Sir Ronald Fisher in 1936 as an example of discriminant analysis.
 
@@ -238,13 +238,6 @@ svm_model = SVC()
 # Fit the model
 svm_model.fit(x_train,y_train)
 ```
-
-    C:\Users\DigaoSuplementos\Anaconda3\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
-      "avoid this warning.", FutureWarning)
-    
-
-
-
 
     SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
         decision_function_shape='ovr', degree=3, gamma='auto_deprecated',
